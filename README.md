@@ -6,3 +6,5 @@ res/layout contains XML screen layout files that can be linked to Activities or 
 
 
 ## Problem
+
+<img src="/problem_image.png" width="280" />
