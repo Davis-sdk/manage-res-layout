@@ -11,7 +11,6 @@ res/layout contains XML screen layout files that can be linked to Activities or 
 
 ## Solution
 
-<img src="/solution_image1.png" width="280" />
+<img src="/solution_image_1.png" width="280" /> <img src="/solution_image.png" width="280" />
 
-<img src="/solution_image.png" width="280" />
 
